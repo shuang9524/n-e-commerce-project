@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="pinyougou-casClient:war">
-    <output-path>$PROJECT_DIR$/../pinyougou-casClient/target</output-path>
-    <root id="archive" name="pinyougou-casClient.war">
-      <element id="artifact" artifact-name="pinyougou-casClient:war exploded" />
-    </root>
-  </artifact>
-</component>
