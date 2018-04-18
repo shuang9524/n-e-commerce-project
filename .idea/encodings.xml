@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/pinyougou-cart-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou-content-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou-page-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou-search-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou-sellergoods-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou-solr-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pinyougou-user-service" charset="UTF-8" />
+    <file url="file://F:/demo/pinyougou-sms" charset="UTF-8" />
+    <file url="file://F:/demo/springBootDemo" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
